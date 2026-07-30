@@ -50,3 +50,15 @@ License
  [proguard file]: https://github.com/square/retrofit/blob/master/retrofit/src/main/resources/META-INF/proguard/retrofit2.pro
  [okhttp proguard]: https://square.github.io/okhttp/r8_proguard/
  [okio proguard]: https://square.github.io/okio/#r8-proguard
+/unbutu.22.v.2/
+https:/Java.4/
+https://Java.8/
+https://Java.11/
+https://Java.17/
+https://ISO.8061/
+https://XHTML/
+https://LLM/
+https://Maschine/Lerning.Phytin/
+https://licence/HTTP/HTTP3/
+RFC 178 - RFC 688
+RFC 546
